@@ -2,11 +2,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Sumon%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Cloud%20Architect%20•%20Mobile%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80;Android+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+AWS+%E2%98%81%EF%B8%8F;Building+Scalable%2C+Beautiful+Applications" alt="Typing SVG" />
-</p>
-
-
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%26+Cloud+Architect;Android+%7C+Flutter+%7C+React+%7C+Django+%7C+AWS;Building+Scalable+Production+Applications;5%2B+Years+of+Development+Experience;Available+for+Exciting+Projects!" alt="Typing SVG" />
 
@@ -44,6 +39,9 @@
 
 ## 🚀 ABOUT ME
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80;Android+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+AWS+%E2%98%81%EF%B8%8F;Building+Scalable%2C+Beautiful+Applications" alt="Typing SVG" />
+</p>
 </div>
 
 
