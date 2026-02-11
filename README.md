@@ -136,7 +136,7 @@ print(f"Available for hire: {me.name} 🚀")
 ### 🛍️ [Sushbit - E-Commerce Platform](https://www.sushbit.com/)
 > **Live Production App** | My own e-commerce business for electronic gadgets
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=sumonkumarbd&repo=Tweekly-Social-Media-Demo-Site&theme=radical&hide_border=true" />
+<img align="right" width="350" src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/556113115_122127606938953451_5785368212351581454_n.png?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHOwea9nGIO_8vOtcaJDK24nGUQ__iA6K-cZRD_-IDor5twTThwj-6Y1lW9beW7eaWpw0SWUTwJP-gy8swSzRYA&_nc_ohc=kp6NIpx92zUQ7kNvwHMJh0_&_nc_oc=AdkkYxA9oEQC-zIjzGvi_pBdzEZAQofOkuz-iKC-tgy7vq0noigZEwIQZKHluqxvZds&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=_Ho7z5lE_D2KQJTDOL1Xhw&oh=00_AfvKmbfUv0Vf7B4pJUACXWWwAveto0Hx23VMng_MU5HZ7A&oe=6991E299" />
 
 **Tech Stack:** Django • PostgreSQL • Tailwind CSS • AWS  
 - 🛒 Complete e-commerce solution with payment gateway
@@ -154,7 +154,7 @@ print(f"Available for hire: {me.name} 🚀")
 ### 📚 [The Reader - eBook Ecosystem](https://github.com/sumonkumarbd/The-Reader-eBook-API-Django)
 > REST API Backend + Android Client | Complete eBook management platform
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=sumonkumarbd&repo=The-Reader-eBook-API-Django&theme=tokyonight&hide_border=true" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/sumonkumarbd/Pdf-Books-Reader-App/refs/heads/master/app/src/main/res/drawable/dashboad_temp.png" />
 
 **Tech Stack:** Django DRF • Supabase • Android • JWT  
 - 📖 PDF book management with cloud storage
@@ -172,7 +172,7 @@ print(f"Available for hire: {me.name} 🚀")
 ### 🩸 [Ishwardi Blood Donor Club](https://github.com/sumonkumarbd/Ishwardi-Blood-Donor-Club-Android-App)
 > Community App | Connecting blood donors with those in need
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=sumonkumarbd&repo=Ishwardi-Blood-Donor-Club-Android-App&theme=radical&hide_border=true" />
+<img align="right" width="350" src="https://github.com/sumonkumarbd/Ishwardi-Blood-Donor-Club-Android-App/blob/master/media/IBDC%20%7C%7C%20Blood%20Donor%20finder%20App.png" />
 
 **Tech Stack:** Android • Firebase • Google Maps API  
 - 🔴 Real-time donor matching system
@@ -190,7 +190,7 @@ print(f"Available for hire: {me.name} 🚀")
 ### 💬 [Tweekly - Social Media Platform](https://github.com/sumonkumarbd/Tweekly-Social-Media-Demo-Site)
 > Full-Stack Social Network | Posts, likes, comments, follows
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=sumonkumarbd&repo=Tweekly-Social-Media-Demo-Site&theme=merko&hide_border=true" />
+<img align="right" width="350" src="https://github.com/sumonkumarbd/Tweekly-Social-Media-Demo-Site/blob/master/static/icons/Tweekly.png" />
 
 **Tech Stack:** Django • PostgreSQL • Bootstrap • JavaScript  
 - 👤 User profiles & authentication
